@@ -16,4 +16,41 @@
 
 ## 🛠 ETL Process
 
-- Clean
+- Cleaned & transformed data using **Power Query**
+- Built **Date Table** and relationships for accurate time analysis
+
+---
+
+## 📊 Custom Visuals
+
+- KPI Cards, Donut Charts, Heatmaps, Line Graphs & Bar Charts
+- Dynamic Titles, Bookmarks, and Drill-through Navigation
+
+---
+
+## 🧠 Advanced DAX
+
+- Calculated Measures (e.g., *Average Booking Value*, *Total Booking Distance*)
+- Parameter Slicers for flexible filtering
+
+---
+
+## 🧭 Navigation Icons
+
+- 🏠 **Home** (Dashboard)
+- ℹ️ **Info** (Data Overview)
+- 🔄 **Refresh** (Reset all filters)
+
+---
+
+## 📈 Tools Used
+
+- **Power BI**
+- **DAX**
+- **Power Query**
+- **Data Modelling**
+- **ETL (Extract, Transform, Load)**
+
+---
+
+> **Explore the dashboard to uncover key insights and trends in Uber trip data!**
