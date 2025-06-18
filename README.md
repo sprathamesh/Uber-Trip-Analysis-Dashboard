@@ -56,4 +56,4 @@
 > **Explore the dashboard to uncover key insights and trends in Uber trip data!**
 
 ### 🖥 Overview Dashboard
-![Overview Dashboard](Assets/dashboard_overview.png)
+![Overview Dashboard](Assets/UberTripAnalysisDashboard.png)
